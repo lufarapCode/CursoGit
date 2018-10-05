@@ -1,0 +1,26 @@
+Git : Sistema de control de versiones 
+Github: Es una plataforma donde nosotros podemos guardar nuestros proyectos
+	usando git para su gestion
+
+$ git clone (link repositorio): Nos sierve para clonar un proyecto, se usa para no contribir en el 
+
+
+******************** poner nuestro proyecto enGithub*********
+
+Repositorio: Nuestro proyecto
+Repositorios remotos : Los que estan en hithub
+Repositorios locales: Los que estan en mi computadora
+
+GIT REMOTE: 	
+Vincula nuestro proyecto local con el repositorio remoto. Solo para conectar nuestra computadora con github
+
+$ git remote add origin (link del proyecto creado en hithub)
+https://github.com/Luis-Falconi/EjemploPaginaWeb.git
+
+$ git remote -v --> Ver el estado de conexion
+$ git remote remove origin  --> Eliminar la conexion 
+
+GIT PUCH: Pasar de nuestra computadora a Github
+
+$ git puch origin master (rama que deseas pasar) 
+ 

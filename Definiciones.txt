@@ -1,0 +1,19 @@
+Head: Donde nos encontramos en nuestro proyecto
+Ramas: Es una linea  de tiempo en nuestro proyecto, que nos sirve para 
+	arreglar errores, expirementar,hacer grandes cambiosm etc.
+
+Rama Master: Es dnde comenzamos a trabajar, es la rama principal y 
+		estable del proyecto. (git branch: para ver las ramas)
+		git branch Ramanueva: para crear nueva rama   git 
+
+
+Fusiones: Creacion de un commit juntanto una rama con otr
+
+Primero situarse en la rama que va ha absorver: 
+
+$ git merge (rama absorbida) rama1 --> ejemplo
+
+$ git checkout -b ramanueva --> Crea una rama y nos movemos 
+
+********
+git branch -D nombreRama --> borrar una rama

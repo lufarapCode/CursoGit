@@ -1,0 +1,34 @@
+$ git init:  Este comando marca el inico de nuestro proyecto, 
+	      aqui le decimos a Git que epiece a monitorear todos
+	      nuestros cambios, ya sea si cambiamos una imagen, estilo
+	      html, etc.Siempre se usa a iniciar el git de nuestro proyecto.
+
+$ git status: Estado de nuestro proyecto
+
+$ git add: Que archivos estan listos para crear un commit
+$ git add -A: agregar todo. 
+
+$ git commit -m "mensaje": Mensaje para identicar este cambio, o al 
+			   agregar un nuevo commit: "Hice esto"
+			   El mensaje debe ser claro
+ 
+
+
+$ git log: lista de los nuevos commit, que commit hemos creado
+
+$ git checkout (commit): Con este comando viajamos a traves de nuestros commits o nuestras rmas
+			viajamos en el tiempo. ($ git chekout 03d8dc0dacf13b60ca7784dc2ef1ef63fcb2cf60)
+			Debemos copiar el commit dato en git log. 
+
+$ git checkout master: regresamos a nuestro ultimo commit
+
+$ git reset: Es similar a checkout a diferencia que este elimina los commits
+		 
+$ git restet --soft: El git reset mas simple y que no toca nuestro "Working Area
+			" (No se mete con nuestro codigo) 
+
+$ git reset --hard: Borra absolutamente todo lo que hay commit. 
+
+$ git help
+
+
