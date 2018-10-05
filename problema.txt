@@ -1,0 +1,12 @@
+Error al iniciar sesion en otra cuenta de github: 
+
+Se debe eliminar las credenciales de windows 
+
+https://stackoverflow.com/questions/15381198/remove-credentials-from-git
+
+
+Error al hacer push en un repositorio: 
+
+git push -u origin master --force
+
+
