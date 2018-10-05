@@ -31,4 +31,4 @@ $ git reset --hard: Borra absolutamente todo lo que hay commit.
 
 $ git help
 
-
+$ git fetch: para actualizar solo las referencias a las ramas remotas
