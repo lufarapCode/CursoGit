@@ -15,5 +15,14 @@ $ git merge (rama absorbida) rama1 --> ejemplo
 
 $ git checkout -b ramanueva --> Crea una rama y nos movemos 
 
-********
 git branch -D nombreRama --> borrar una rama
+
+*********** *********** ************* ************* ********
+
+Isseus : Son una forma de continuar, mejorar o solucionar un error en 
+nuestros repositorios (proyectos)
+
+Milestones: Son grupos de issues que aplican para un proyecto , 
+característica o periodo de tiempo.
+
+Labels: Son una manera de organizar diferentes tipos de problemas 
