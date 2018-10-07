@@ -26,3 +26,27 @@ Milestones: Son grupos de issues que aplican para un proyecto ,
 característica o periodo de tiempo.
 
 Labels: Son una manera de organizar diferentes tipos de problemas 
+
+Tags: Son simples puntos especificos en la historia de nuestro proyecto 
+y se usan para marcar alguna version del mismo. Se lo coloca a los 
+commits 
+
+(Para cambiar el texto de un commit : git commit --amend -m "texto")
+
+**** Crear tags ***** 
+Tags anotadas: tienen un poco mas de datos para identificarlas mejor
+
+$ git tag -a v1.0 -m "mensaje": 
+
+Tags ligeras: Contienen menos información
+
+$ git tag v1.0
+
+******* subir a github **********
+
+git push origin (nombre del tag)  --> $git push origin v.01
+
+$ git push origin --tags  --> Este comando va a subir todos los tags que 
+tengamoss. 
+
+
