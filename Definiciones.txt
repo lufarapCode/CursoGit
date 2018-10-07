@@ -64,5 +64,15 @@ crear un nuevo commit.)
 	
 *** PROYECTOS CON TERCEROS *****
 
+Fork: hace un clon de otro repositorio
 
+Aqui podemos contribuir con otros repositorios de otras personas, en 
+nuestras cuentas. En caso de que encontremos un error, o deseemos 
+cambiar algo lo podemos hacer. 
+
+Hacemos un nuevo pull request y enviaremos nuestros cambios al dueño del 
+repositorio o a la organización, y si el cambio es bueno se puede 
+contribuir al pryecto.
+
+ 
 
