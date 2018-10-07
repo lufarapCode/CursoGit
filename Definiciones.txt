@@ -50,3 +50,19 @@ $ git push origin --tags  --> Este comando va a subir todos los tags que
 tengamoss. 
 
 
+************* Workflows **************
+
+$ git branch -a : Ver ramas oocultas
+
+$ git fetch origin: Bajar los cambios que esten en los repositorios 
+remoto, los cambios de nuestro equipo a orgin master. Pero la rama 
+master sigue sin tener los cambios.  
+
+$ git merge origin/master: Absorvemos a la rama origin/master 
+(combianar el commit de "Juan" 	con nuestro commit y apartir de esto 
+crear un nuevo commit.)	
+	
+*** PROYECTOS CON TERCEROS *****
+
+
+
