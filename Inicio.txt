@@ -20,7 +20,7 @@ https://github.com/Luis-Falconi/EjemploPaginaWeb.git
 $ git remote -v --> Ver el estado de conexion
 $ git remote remove origin  --> Eliminar la conexion 
 
-GIT PUCH: Pasar de nuestra computadora a Github
+GIT PUSH: Pasar de nuestra computadora a Github
 
-$ git puch origin master (rama que deseas pasar) 
+$ git push -u origin master (rama que deseas pasar) 
  
