@@ -2,6 +2,8 @@ $ git init:  Este comando marca el inico de nuestro proyecto,
 	      aqui le decimos a Git que epiece a monitorear todos
 	      nuestros cambios, ya sea si cambiamos una imagen, estilo
 	      html, etc.Siempre se usa a iniciar el git de nuestro proyecto.
+	      
+$ git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 
 $ git status: Estado de nuestro proyecto
 
@@ -13,7 +15,7 @@ $ git commit -m "mensaje": Mensaje para identicar este cambio, o al
 			   El mensaje debe ser claro
 			   
 			   
- git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+ 
 
 git push -u origin master
 
