@@ -66,6 +66,8 @@ crear un nuevo commit.)
 
 Fork: hace un clon de otro repositorio
 
+
+
 Aqui podemos contribuir con otros repositorios de otras personas, en 
 nuestras cuentas. En caso de que encontremos un error, o deseemos 
 cambiar algo lo podemos hacer. 
