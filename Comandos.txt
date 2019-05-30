@@ -38,3 +38,12 @@ $ git reset --hard: Borra absolutamente todo lo que hay commit.
 $ git help
 
 $ git fetch: para actualizar solo las referencias a las ramas remotas
+
+*********************** CREAR UNA NUEVA RAMA ***************************
+$ git branch nuevaRama
+$ git checkout nuevaRama
+
+(Podemos usar el siguiente atajo, para saltar directamente a la nueva rama)
+$ git checkout -b nuevaRama
+Switched to a new branch "nuevaRama"
+
