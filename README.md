@@ -83,4 +83,21 @@ Al crear una nueva rama se copia el último commit en esta nueva rama. Todos los
 - git branch: lista las ramas generadas.
 ```
 
-Cambio 1
+# Cómo usar Git Reset
+
+```
+Para volver a commits previos, borrando los cambios realizados desde ese commit, podemos utilizar:
+
+git reset --soft [SHA 1]: elimina los cambios hasta el staging area
+git reset --mixed [SHA 1]: elimina los cambios hasta el working area
+git reset --hard [SHA 1]: regresa hasta el commit del [SHA-1]
+Donde el SHA-1 es el identificador del commit
+
+```
+# Git Checkout 
+
+```
+    git checkut +IDdelLog + nombreArchivo  : De esta manera viajamos en el tiempo y revisamos como se encontraba un archivo en especifico antes
+
+    git checkout master/main + nombreArchivo : Volvemos a la ultima versión 
+```
