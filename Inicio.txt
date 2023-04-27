@@ -1,11 +1,12 @@
+
 Git : Sistema de control de versiones 
 Github: Es una plataforma donde nosotros podemos guardar nuestros proyectos
 	usando git para su gestion
 
-$ git clone (link repositorio): Nos sierve para clonar un proyecto, se usa para no contribir en el 
+$ git clone (link repositorio): Nos sierve para clonar un proyecto, se usa para no contribuir en el 
 
 
-******************** poner nuestro proyecto enGithub*********
+******************** Poner nuestro proyecto enGithub*********
 
 Repositorio: Nuestro proyecto
 Repositorios remotos : Los que estan en hithub
