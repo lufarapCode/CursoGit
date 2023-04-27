@@ -3,3 +3,7 @@ Estamos comenzando la nueva versión. Se llama V1.5
 **** Voy hacer un cambio 1*************
 
 **** voy hacer un cambio 2 **********
+
+
+***** estoy haciendo un cambio 3 sin hacer commir, pero hice algo mal y 
+daño el prooyecto **********
