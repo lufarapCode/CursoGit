@@ -7,3 +7,8 @@ Estamos comenzando la nueva versión. Se llama V1.5
 
 ***** estoy haciendo un cambio 3 sin hacer commir, pero hice algo mal y 
 daño el prooyecto **********
+
+
+
+**** arrelgo el error *********
+
