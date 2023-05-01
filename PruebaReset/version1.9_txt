@@ -19,6 +19,12 @@ daño el prooyecto **********
 ***** Hago un cambio para solucionar un problema *****
 
 
+<<<<<<< HEAD
 ******** Realizando Cambios en rama Master *********
+=======
+******** Realizando Cambios en Master *********
+>>>>>>> ramaTesting
 ********* Trabajando en una rama nueva: RamaTest ***********
 ********** agregando codigo rama TEST * *********
+
+********* Cambios en rama Testing ***********
