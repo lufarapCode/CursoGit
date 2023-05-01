@@ -130,3 +130,10 @@ git log – index.html: Busca los commits en un archivo en específico.
 git log -S “Por contenido”: Buscar los commits con el contenido dentro del archivo.
 git log > log.txt: guardar los logs en un archivo txt
 ```
+
+## Cómo revertir un merge
+
+```
+Si nos hemos equivocado y queremos cancelar el merge, debemos usar el siguiente comando:
+- git merge --abort
+```
