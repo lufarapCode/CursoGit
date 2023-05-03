@@ -141,18 +141,18 @@ Visualizar las ramas y como se relacionan
 ```
 
 ## Comandos para manejo de ramas en GitHub
-´´´
+```
 - Crear una rama:`git branch branchName`
 - Movernos a otra rama:`git checkout branchName`
 - Crear una rama en el repositorio local:`git branch nombre-de-la-rama` o `git checkout -b nombre-de-la-rama`.
 - Publicar una rama local al repositorio remoto:`git push origin nombre-de-la-rama`.
-´´´
+```
 
 ## Comandos para trabajar con etiquetas:
-´´´
+```
 - Crear un nuevo tag y asignarlo a un commit: **`git tag -a nombre-del-tag -m "mensaje" id-del-commit`**.
 - Borrar un tag en el repositorio local: **`git tag -d nombre-del-tag`**.
 - Listar los tags de nuestro repositorio local: **`git tag`** o **`git show-ref --tags`**.
 - Publicar un tag en el repositorio remoto: **`git push origin --tags`**.
 - Borrar un tag del repositorio remoto: `git tag -d nombre-del-tag` y **`git push origin :refs/tags/nombre-del-tag`**.
-´´´   
+``` 
